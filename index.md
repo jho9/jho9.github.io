@@ -2,10 +2,12 @@
 This page contains my projects and work see my [github](https://github.com/jho9). There is nothing special here at the moment but I will be populating this page!
 
 ### Current Projects
+**Patient Readmission Revisited with Model Interpretation and Ensembling**
+
 
 ### Previous Work and Publications
-Improving Portfolio Performance Using Attribute Selection and Combination	
-September 2019, I-SPAN 2019, Naples, Italy, Co-Author
+**Improving Portfolio Performance Using Attribute Selection and Combination**	
+*September 2019, I-SPAN 2019, Naples, Italy, Co-Author* [Link] (https://ieeexplore.ieee.org/document/8890520)
 •	Combined stock features in the form of ranks and scores to build and back test different portfolios
 •	Validated portfolio improvement from 8% to 20% on four out of five configurations using the team’s developed modification 
 Analysis on Tweets using Machine Learning and Combinatorial Fusion	
