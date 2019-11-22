@@ -3,9 +3,9 @@ This page contains my projects and work see my [github](https://github.com/jho9)
 
 ### Current Projects
 <p style="text-align:left;">
-    **Identifying Features for Taiwanese Credit Card Risk Prediction**
+    <b>Identifying Features for Taiwanese Credit Card Risk Prediction<b>
     <span style="float:right;">
-        **April 2019 – Current**
+        <b>April 2019 – Current<b>
     </span>
 </p>
 
