@@ -7,7 +7,7 @@ This page contains my projects and work see my [github](https://github.com/jho9)
 
 ### Previous Work and Publications
 **Improving Portfolio Performance Using Attribute Selection and Combination**	
-*September 2019, I-SPAN 2019, Naples, Italy, Co-Author* [Link] (https://ieeexplore.ieee.org/document/8890520) <br>
+*September 2019, I-SPAN 2019, Naples, Italy, Co-Author* [See](https://ieeexplore.ieee.org/document/8890520) <br>
 •	Combined stock features in the form of ranks and scores to build and back test different portfolios
 •	Validated portfolio improvement from 8% to 20% on four out of five configurations using the team’s developed modification 
 Analysis on Tweets using Machine Learning and Combinatorial Fusion	
