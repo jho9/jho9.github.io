@@ -16,14 +16,3 @@ This page contains my projects and work see my [github](https://github.com/jho9)
 *August 2019, CBDCom WiP 2019, Fukuoka, Japan, Co-Author and Presenter* <br>
 •	Designed and implemented natural language processing engine for a multi-class sentiment problem 
 •	Presented the improvement of sentiment classification accuracy by applying Combinatorial Fusion to NLP
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jho9/jho9.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
