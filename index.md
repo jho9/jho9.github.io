@@ -2,7 +2,13 @@
 This page contains my projects and work see my [github](https://github.com/jho9). There is nothing special here at the moment but I will be populating this page!
 
 ### Current Projects
-**Identifying Features for Taiwanese Credit Card Risk Prediction	April 2019 – Current**
+<p style="text-align:left;">
+    **Identifying Features for Taiwanese Credit Card Risk Prediction**
+    <span style="float:right;">
+        **April 2019 – Current**
+    </span>
+</p>
+
 <br>
 •	Investigate consumer credit risk based on demographic features and past spending behavior
 •	Compare imbalance data sampling methods like SMOTE and Balance Bagging for risk prediction
