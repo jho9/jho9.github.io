@@ -1,29 +1,16 @@
 ## Welcome to James' Page
-This page contains my projects and work see my [github](https://github.com/jho9).There is nothing at the moment but I will be populating this page.
+This page contains my projects and work see my [github](https://github.com/jho9). There is nothing special here at the moment but I will be populating this page!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/).
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+### Current Projects
+**Identifying Features for Taiwanese Credit Card Risk Prediction	April 2019 – Current**
+•	Investigate consumer credit risk based on demographic features and past spending behavior
+•	Compare imbalance data sampling methods like SMOTE and Balance Bagging for risk prediction
+•	Explore the effects of different tuning metrics to hyper-parameter choice and robustness given the dataset
+•	Use model interpretation tools like LIME and SHAP to investigate feature relevance and feature importance
+**Comparison of Classification Algorithms for U.S. Recession Forecasting 	September 2018 – Current**
+•	Investigate the ability of different algorithms to Nowcast/Forecasting business cycles and turning points
+•	Design and create a folded cross validation for time series classes to produce a more general model
+•	Research and implement different variable selection methods to improve model performance 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
