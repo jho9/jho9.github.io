@@ -14,7 +14,10 @@ This page contains my projects and work see my [github](https://github.com/jho9)
 •	Combined stock features in the form of ranks and scores to build and back test different portfolios <br>
 •	Validated portfolio improvement from 8% to 20% on four out of five configurations using the team’s developed modification <br>
 
-**Analysis on Tweets using Machine Learning and Combinatorial Fusion**	<br>
-*August 2019, CBDCom WiP 2019, Fukuoka, Japan, Co-Author and Presenter* <br>
+**Analysis on Tweets using Machine Learning and Combinatorial Fusion**	
+<br>
+*August 2019, CBDCom WiP 2019, Fukuoka, Japan, Co-Author and Presenter* 
+<br>
 •	Designed and implemented natural language processing engine for a multi-class sentiment problem 
+<br>
 •	Presented the improvement of sentiment classification accuracy by applying Combinatorial Fusion to NLP
